@@ -19,7 +19,7 @@
 #define CFG_MS5611_CRC_ENABLE
 
 #define MS5611_I2C_ADDR_CSB_L   (0xEC >> 1)
-#define MS5611_I2C_ADDR_CSB_H   (0xED >> 1)
+#define MS5611_I2C_ADDR_CSB_H   (0xEE >> 1)
 
 /* Oversampling Ratio */
 enum ms5611_osr_e
